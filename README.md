@@ -1,4 +1,8 @@
-hhsings
+Hackathon Hackers Sings
 =======
 
-Hackathon Hackers Sings
+"**X** Sings" has been a long and storied tradition since the 1990’s. when various Internet forums have banded together to collaboratively write and sing a popular pop song. Dedicated groups will often make a music video to accompany them. Since the early 2000’s, the trend has been carried mainly by 4Chan boards such as [/v/](https://www.youtube.com/watch?v=8LjhGNMOoEU) (some bad words) and  [/a/](https://www.youtube.com/watch?v=R__9D3E55lg&feature=youtu.be&t=1m5s). Basically, the way it works is that the users all collaborate to write lyrics, usually a parody, and then submit voice clips as necessary. Simple videos will simply have everyone sing the whole song and then line up the recordings with an instrumentals. More complicated ones will sometimes coordinate different sounding users to go with different parts of the song. Still more advanced and concerted efforts, like [/gg/ sings](https://docs.google.com/document/d/1ybPFM3kxVqePsS0HkdIzJVFAOwLppXQ-A-lK_C2jmc8/edit) will plan, write and edit music videos with voice acting designed to sound very similar to the song in question. [This Mulan parody](https://www.youtube.com/watch?v=fr7u1tWsGBk) provides an excellent example of the kind of editing and collaboration that makes a great parody.
+
+In addition to being an online community, the hackathon community is a tightly knit real life community with famous figures and its own jokes and references. Making an amazing live action music video is something we'd be amazing at. The MLP fandom has done this, creating [this collaborative music video](https://www.youtube.com/watch?v=9E1o1ftrjL4). We should be able to do something similar.
+
+We believe that the combined skills and dedication of the hackathon community could make some amazing parodies. But we need your help! Hop on in and start making pull requests!

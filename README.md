@@ -5,4 +5,4 @@ Hackathon Hackers Sings
 
 In addition to being an online community, the hackathon community is a tightly knit real life community with famous figures and its own jokes and references. Making an amazing live action music video is something we'd be amazing at. The MLP fandom has done this, creating [this collaborative music video](https://www.youtube.com/watch?v=9E1o1ftrjL4). We should be able to do something similar.
 
-We believe that the combined skills and dedication of the hackathon community could make some amazing parodies. But we need your help! Hop on in and start making pull requests!
+We believe that the combined skills and dedication of the hackathon community could make some amazing parodies. But we need your help! Hop on in and start making pull requests for songs you want to hear!
